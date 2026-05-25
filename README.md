@@ -36,7 +36,7 @@
 npx cypress run --spec cypress/e2e/lesson_locators.cy.js --browser chrome
 ```
 Ожидаемый результат: получим отчет о прохождении тестов.
-![image](https://raw.githubusercontent.com/MaxEvdokimov1/cypress_autotests/main/cypress_bash.png)
+![image](https://raw.githubusercontent.com/kimostas/cypress_autotests/refs/heads/main/cypress_terminal.png)
 
 ## Локальный запуск через Cypress UI
 1. Скачать проект и открыть в терминале.
