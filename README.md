@@ -17,16 +17,16 @@
 ## Детали реализации
 
 1. baseUrl вынесен в переменные конфига
-![image](https://raw.githubusercontent.com/MaxEvdokimov1/cypress_autotests/main/baseUrl.png)
+![image](https://raw.githubusercontent.com/kimostas/cypress_autotests/refs/heads/main/baseURL.png)
 
 2. Применение хуков beforeEach и afterEach
-![image](https://raw.githubusercontent.com/MaxEvdokimov1/cypress_autotests/main/hooks.png)
+![image](https://raw.githubusercontent.com/kimostas/cypress_autotests/refs/heads/main/hooks.png)
 
 3. Переменные данные для авторизации вынесены в отдельный файл
-![image](https://raw.githubusercontent.com/MaxEvdokimov1/cypress_autotests/main/user_data.png)
+![image](https://raw.githubusercontent.com/kimostas/cypress_autotests/refs/heads/main/user_data.png)
 
 4. Каждая страница описана в формате объекта с локаторами
-![image](https://raw.githubusercontent.com/MaxEvdokimov1/cypress_autotests/main/locators.png)
+![image](https://raw.githubusercontent.com/kimostas/cypress_autotests/refs/heads/main/locators.png)
 
 ## Локальный запуск тестов (из терминала)
 1. Скачать проект
