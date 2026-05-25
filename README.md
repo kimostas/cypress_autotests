@@ -41,7 +41,7 @@ npx cypress run --spec cypress/e2e/lesson_locators.cy.js --browser chrome
 ## Локальный запуск через Cypress UI
 1. Скачать проект и открыть в терминале.
 2. Перейти в директорию проекта.
-3. В терминале в папке с проектом запустить npm `install --save-dev cypress@12.7.0`
+3. В терминале в папке с проектом запустить npm `install --save-dev cypress@12.7.4`
 4. В терминале в папке с проектом запустить npm `npm i`
 5. В терминале в папке с проектом запустить npm `npx cypress open`
 6. Выбрать в Cypress UI E2E тестирование и браузер Google Chrome
